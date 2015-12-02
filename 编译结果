@@ -1,0 +1,23 @@
+1>  libntp.vcxproj -> E:\vs_project\ntp-dev-4.3.85\ports\winnt\vs2013\\Win32-tmp\Release\libntp.lib
+2>  instsrv.vcxproj -> E:\vs_project\ntp-dev-4.3.85\ports\winnt\vs2013\\Win32-out\Release\instsrv.exe
+3>  ntpd-keyword-gen.vcxproj -> E:\vs_project\ntp-dev-4.3.85\ports\winnt\vs2013\\Win32-tmp\Release\keyword-gen.exe
+
+4>  ntpdate.vcxproj -> E:\vs_project\ntp-dev-4.3.85\ports\winnt\vs2013\\Win32-out\Release\ntpdate.exe
+4>	创建库 E:\vs_project\ntp-dev-4.3.85\ports\winnt\vs2013\\Win32-out\Release\ntpdate.lib
+
+5>  ntpd.vcxproj -> E:\vs_project\ntp-dev-4.3.85\ports\winnt\vs2013\\Win32-out\Release\ntpd.exe
+5>	创建库 E:\vs_project\ntp-dev-4.3.85\ports\winnt\vs2013\\Win32-out\Release\ntpd.lib
+
+
+6>  ntpdc.vcxproj -> E:\vs_project\ntp-dev-4.3.85\ports\winnt\vs2013\\Win32-out\Release\ntpdc.exe
+6>	创建库 E:\vs_project\ntp-dev-4.3.85\ports\winnt\vs2013\\Win32-out\Release\ntpdc.lib
+
+7>  ntp-keygen.vcxproj -> E:\vs_project\ntp-dev-4.3.85\ports\winnt\vs2013\\Win32-out\Release\ntp-keygen.exe
+7>	创建库 E:\vs_project\ntp-dev-4.3.85\ports\winnt\vs2013\\Win32-out\Release\ntp-keygen.lib
+
+8>  ntpq.vcxproj -> E:\vs_project\ntp-dev-4.3.85\ports\winnt\vs2013\\Win32-out\Release\ntpq.exe
+8>	创建库 E:\vs_project\ntp-dev-4.3.85\ports\winnt\vs2013\\Win32-out\Release\ntpq.lib
+
+
+9>  loopback-ppsapi-provider.vcxproj -> E:\vs_project\ntp-dev-4.3.85\ports\winnt\vs2013\\Win32-out\Release\loopback-ppsapi-provider.dll
+9>	创建库 E:\vs_project\ntp-dev-4.3.85\ports\winnt\vs2013\\Win32-out\Release\loopback-ppsapi-provider.lib

@@ -1,0 +1,292 @@
+1>------ 已启动生成:  项目: libntp, 配置: Release Win32 ------
+2>------ 已启动生成:  项目: instsrv, 配置: Release Win32 ------
+2>  Using NT Shell Script to generate version.c
+2>  操作成功完成。
+2>  
+1>  Message Compiler
+1>  MC: Compiling E:\vs_project\ntp-dev-4.3.85\ports\winnt\libntp\messages.mc
+2>  操作成功完成。
+2>  
+2>  Version 4.3.85@1.2483-o Build 3 date Feb/周三/12  time 14:51:39.30 (UTC+08:00)
+2>  instsrv.c
+2>  version.c
+1>  adjtime.c
+1>  atoint.c
+1>  atolfp.c
+2>  正在生成代码
+1>  atouint.c
+2>  已完成代码的生成
+1>  audio.c
+2>  instsrv.vcxproj -> E:\vs_project\ntp-dev-4.3.85\ports\winnt\vs2013\\Win32-out\Release\instsrv.exe
+1>  authkeys.c
+1>  authreadkeys.c
+1>  authusekey.c
+1>  a_md5encrypt.c
+1>  buftvtots.c
+1>  caljulian.c
+1>  caltontp.c
+1>  calyearstart.c
+1>  clocktime.c
+1>  clocktypes.c
+1>  decodenetnum.c
+1>  dofptoa.c
+1>  dolfptoa.c
+1>  emalloc.c
+1>  findconfig.c
+1>  正在编译...
+1>  getopt.c
+1>  hextoint.c
+1>  hextolfp.c
+1>  humandate.c
+1>  icom.c
+1>  iosignal.c
+1>  lib_strbuf.c
+1>  machines.c
+1>  mktime.c
+1>  modetoa.c
+1>  mstolfp.c
+1>  msyslog.c
+1>  netof.c
+1>  ntp_calendar.c
+1>  ntp_crypto_rnd.c
+1>  ntp_intres.c
+1>  ntp_libopts.c
+1>  ntp_lineedit.c
+1>  ntp_random.c
+1>  ntp_rfc2553.c
+1>  正在编译...
+1>  ntp_worker.c
+1>  numtoa.c
+1>  numtohost.c
+1>  octtoint.c
+1>  prettydate.c
+1>  recvbuff.c
+1>  refnumtoa.c
+1>  snprintf.c
+1>  socket.c
+1>  socktoa.c
+1>  socktohost.c
+1>  ssl_init.c
+1>  statestr.c
+1>  strdup.c
+1>  strl_obsd.c
+1>  syssignal.c
+1>  systime.c
+1>  timetoa.c
+1>  timevalops.c
+1>  uglydate.c
+1>  正在编译...
+1>  vint64ops.c
+1>  work_fork.c
+1>  work_thread.c
+1>  ymd2yd.c
+1>  assertions.c
+1>  backtrace-emptytbl.c
+1>  backtrace.c
+1>  buffer.c
+1>  error.c
+1>  event.c
+1>  inet_aton.c
+1>  inet_ntop.c
+1>  inet_pton.c
+1>  lib.c
+1>  log.c
+1>  md5.c
+1>  netaddr.c
+1>  netscope.c
+1>  msgcat.c
+1>  ondestroy.c
+1>  正在编译...
+1>  sha1.c
+1>  sockaddr.c
+1>  task.c
+1>  condition.c
+1>  interfaceiter.c
+1>  net.c
+1>  once.c
+1>  stdtime.c
+1>  strerror.c
+1>  thread.c
+1>  time.c
+1>  win32os.c
+1>  libopts.c
+1>  arc4wrap.c
+1>  getclock.c
+1>  randfile.c
+1>  setpriority.c
+1>  SetSystemTime.c
+1>  syslog.c
+1>  termios.c
+1>  正在编译...
+1>  util_clockstuff.c
+1>  win32_io.c
+1>  libntp.vcxproj -> E:\vs_project\ntp-dev-4.3.85\ports\winnt\vs2013\\Win32-tmp\Release\libntp.lib
+3>------ 已启动生成:  项目: keyword-gen, 配置: Release Win32 ------
+4>------ 已启动生成:  项目: ntpdate, 配置: Release Win32 ------
+3>  keyword-gen.c
+4>  Using NT Shell Script to generate version.c
+4>  操作成功完成。
+4>  
+4>  操作成功完成。
+4>  
+4>  Version 4.3.85@1.2483-o Build 3 date Feb/周三/12  time 14:52:29.58 (UTC+08:00)
+3>  正在生成代码
+4>  ntpdate.c
+4>  version.c
+3>  已完成代码的生成
+3>  ntpd-keyword-gen.vcxproj -> E:\vs_project\ntp-dev-4.3.85\ports\winnt\vs2013\\Win32-tmp\Release\keyword-gen.exe
+4>     正在创建库 E:\vs_project\ntp-dev-4.3.85\ports\winnt\vs2013\\Win32-out\Release\ntpdate.lib 和对象 E:\vs_project\ntp-dev-4.3.85\ports\winnt\vs2013\\Win32-out\Release\ntpdate.exp
+4>  正在生成代码
+4>  已完成代码的生成
+4>  ntpdate.vcxproj -> E:\vs_project\ntp-dev-4.3.85\ports\winnt\vs2013\\Win32-out\Release\ntpdate.exe
+5>------ 已启动生成:  项目: ntpd, 配置: Release Win32 ------
+5>  invoking keyword-gen on ntp_parser.h to produce ntp_keyword.h
+5>  182 keywords consumed 855 states of 2047 max.
+5>  updated keyword-gen-utd and ntp_keyword.h
+5>  Using NT Shell Script to generate version.c
+5>  操作成功完成。
+5>  
+5>  操作成功完成。
+5>  
+5>  Version 4.3.85@1.2483-o Build 3 date Feb/周三/12  time 14:52:32.97 (UTC+08:00)
+6>------ 已启动生成:  项目: ntpdc, 配置: Release Win32 ------
+5>  binio.c
+6>  Using NT Shell Script to generate version.c
+6>  操作成功完成。
+6>  
+5>  clk_computime.c
+6>  操作成功完成。
+6>  
+6>  Version 4.3.85@1.2483-o Build 3 date Feb/周三/12  time 14:52:33.44 (UTC+08:00)
+5>  clk_dcf7000.c
+5>  clk_hopf6021.c
+5>  clk_meinberg.c
+5>  clk_rawdcf.c
+6>  ntpdc-opts.c
+6>  ntpdc.c
+6>  ntpdc_ops.c
+6>  version.c
+5>  clk_rcc8000.c
+5>  clk_schmid.c
+5>  clk_trimtaip.c
+5>  clk_trimtsip.c
+6>     正在创建库 E:\vs_project\ntp-dev-4.3.85\ports\winnt\vs2013\\Win32-out\Release\ntpdc.lib 和对象 E:\vs_project\ntp-dev-4.3.85\ports\winnt\vs2013\\Win32-out\Release\ntpdc.exp
+6>  正在生成代码
+6>  已完成代码的生成
+6>  ntpdc.vcxproj -> E:\vs_project\ntp-dev-4.3.85\ports\winnt\vs2013\\Win32-out\Release\ntpdc.exe
+5>  clk_varitext.c
+5>  clk_wharton.c
+5>  data_mbg.c
+5>  gpstolfp.c
+5>  ieee754io.c
+5>  info_trimble.c
+5>  mfp_mul.c
+5>  parse.c
+5>  parse_conf.c
+7>------ 已启动生成:  项目: ntp-keygen, 配置: Release Win32 ------
+7>  Using NT Shell Script to generate version.c
+5>  trim_info.c
+7>  操作成功完成。
+7>  
+7>  操作成功完成。
+7>  
+5>  正在编译...
+5>  cmd_args.c
+7>  Version 4.3.85@1.2483-o Build 3 date Feb/周三/12  time 14:52:39.66 (UTC+08:00)
+7>  ntp-keygen-opts.c
+5>  ntpd-opts.c
+5>  ntpd.c
+7>  ntp-keygen.c
+7>  version.c
+7>     正在创建库 E:\vs_project\ntp-dev-4.3.85\ports\winnt\vs2013\\Win32-out\Release\ntp-keygen.lib 和对象 E:\vs_project\ntp-dev-4.3.85\ports\winnt\vs2013\\Win32-out\Release\ntp-keygen.exp
+7>  正在生成代码
+7>  已完成代码的生成
+5>  ntpsim.c
+5>  ntp_config.c
+7>  ntp-keygen.vcxproj -> E:\vs_project\ntp-dev-4.3.85\ports\winnt\vs2013\\Win32-out\Release\ntp-keygen.exe
+5>  ntp_control.c
+5>  ntp_crypto.c
+5>  ntp_filegen.c
+5>  ntp_io.c
+5>  ntp_leapsec.c
+5>  ntp_loopfilter.c
+5>  ntp_monitor.c
+5>  ntp_parser.c
+8>------ 已启动生成:  项目: ntpq, 配置: Release Win32 ------
+5>  ntp_peer.c
+5>  ntp_proto.c
+5>  ntp_refclock.c
+5>  ntp_request.c
+5>  ntp_restrict.c
+5>  ntp_scanner.c
+5>  ntp_signd.c
+5>  正在编译...
+5>  ntp_timer.c
+5>  ntp_util.c
+5>  rc_cmdlength.c
+5>  refclock_acts.c
+5>  refclock_arbiter.c
+5>  refclock_as2201.c
+5>  refclock_atom.c
+5>  refclock_bancomm.c
+5>  refclock_chronolog.c
+5>  refclock_chu.c
+5>  refclock_conf.c
+5>  refclock_datum.c
+5>  refclock_dumbclock.c
+5>  refclock_fg.c
+5>  refclock_gpsvme.c
+5>  refclock_heath.c
+5>  refclock_hopfpci.c
+5>  refclock_hopfser.c
+5>  refclock_hpgps.c
+5>  refclock_irig.c
+5>  正在编译...
+5>  refclock_jjy.c
+5>  refclock_jupiter.c
+5>  refclock_leitch.c
+5>  refclock_local.c
+5>  refclock_msfees.c
+5>  refclock_mx4200.c
+5>  refclock_neoclock4x.c
+5>  refclock_nmea.c
+5>  refclock_oncore.c
+5>  refclock_palisade.c
+5>  refclock_parse.c
+5>  refclock_pcf.c
+5>  refclock_pst.c
+5>  refclock_ripencc.c
+5>  refclock_shm.c
+5>  refclock_tpro.c
+5>  refclock_true.c
+5>  refclock_tsyncpci.c
+5>  refclock_tt560.c
+5>  refclock_ulink.c
+5>  正在编译...
+5>  refclock_wwv.c
+5>  refclock_wwvb.c
+5>  refclock_zyfer.c
+5>  hopf_PCI_io.c
+5>  ntp_iocompletionport.c
+5>  ntservice.c
+5>  nt_clockstuff.c
+5>  version.c
+5>  refclock_arc.c
+5>     正在创建库 E:\vs_project\ntp-dev-4.3.85\ports\winnt\vs2013\\Win32-out\Release\ntpd.lib 和对象 E:\vs_project\ntp-dev-4.3.85\ports\winnt\vs2013\\Win32-out\Release\ntpd.exp
+5>  正在生成代码
+5>  已完成代码的生成
+5>  ntpd.vcxproj -> E:\vs_project\ntp-dev-4.3.85\ports\winnt\vs2013\\Win32-out\Release\ntpd.exe
+9>------ 已启动生成:  项目: loopback-ppsapi-provider, 配置: Release Win32 ------
+9>  Using NT Shell Script to generate version.c
+9>  操作成功完成。
+9>  
+9>  操作成功完成。
+9>  
+9>  Version 4.3.85@1.2483-o Build 3 date Feb/周三/12  time 14:53:23.42 (UTC+08:00)
+9>  loopback-ppsapi.c
+9>  version.c
+9>     正在创建库 E:\vs_project\ntp-dev-4.3.85\ports\winnt\vs2013\\Win32-out\Release\loopback-ppsapi-provider.lib 和对象 E:\vs_project\ntp-dev-4.3.85\ports\winnt\vs2013\\Win32-out\Release\loopback-ppsapi-provider.exp
+9>  正在生成代码
+9>  已完成代码的生成
+9>  loopback-ppsapi-provider.vcxproj -> E:\vs_project\ntp-dev-4.3.85\ports\winnt\vs2013\\Win32-out\Release\loopback-ppsapi-provider.dll
+========== 生成:  成功 9 个，失败 0 个，最新 0 个，跳过 0 个 ==========
